@@ -5,8 +5,7 @@ Welcome to the Data Structures and Algorithms Projects Repository! This reposito
 #### Project Structure
 Each project in this repository follows a consistent structure:
 
-1. **Implementation**: Contains the implementation of the respective data structure or algorithm. These implementations are developed by the contributor.
-   
+1. **Implementation**: Contains the implementation of the respective data structure or algorithm.
 2. **Tests**: Includes unit tests designed to validate the correctness and efficiency of the implementations.
 
 
