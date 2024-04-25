@@ -1,6 +1,6 @@
 ### Data Structures and Algorithms Projects Repository
 
-Welcome to the Data Structures and Algorithms Projects Repository! This repository contains a collection of projects developed as part of coursework for the Data Structures and Algorithms course. Each project focuses on implementing a specific data structure or algorithm.
+Welcome to the Data Structures and Algorithms Projects Repository! This repository contains a collection of projects developed as part of coursework for the Data Structures and Algorithms course, completed during the second semester. Each project focuses on implementing a specific data structure or algorithm.
 
 #### Project Structure
 Each project in this repository follows a consistent structure:
